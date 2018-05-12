@@ -1,0 +1,25 @@
+_repo: Erthe-Upon-Erthe_33768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Murray, Hilda M. R.
+    gutenberg_agent_id: '36593'
+    url: http://www.gutenberg.org/2009/agents/36593
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2010-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Middle English, 1100-1500'
+- !lcc 'PR'
+title: The Middle English Poem, Erthe Upon Erthe
+url: http://www.gutenberg.org/ebooks/33768
