@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36593'
     url: http://www.gutenberg.org/2009/agents/36593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33768#Erthe-Upon-Erthe
 gutenberg_bookshelf: Early English Text Society
 gutenberg_issued: '2010-09-20'
 gutenberg_type: Text
